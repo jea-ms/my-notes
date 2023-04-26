@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>588089643055-6rsfnjpb2e0em116o090hh3d247se9j6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.588089643055-6rsfnjpb2e0em116o090hh3d247se9j6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCVDXRqFDqUogWfNEQ2MA_cDUpSwdHUmFA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>588089643055</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.jeams.mynotes</string>
+	<key>PROJECT_ID</key>
+	<string>jeams-mynotes</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jeams-mynotes.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:588089643055:ios:709d4b0330aa806270f6da</string>
+</dict>
+</plist>

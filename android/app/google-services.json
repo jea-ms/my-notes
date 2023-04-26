@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588089643055",
+    "project_id": "jeams-mynotes",
+    "storage_bucket": "jeams-mynotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588089643055:android:0e5b447d52dfda2270f6da",
+        "android_client_info": {
+          "package_name": "com.jeams.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588089643055-kgr0adrr5oobr1dnv3angag6h9e1mtej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLpTwRIwhZqZtxM5F5LhbhH55Wm82iy-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588089643055-kgr0adrr5oobr1dnv3angag6h9e1mtej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
